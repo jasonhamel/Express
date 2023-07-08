@@ -1,0 +1,15 @@
+{
+  "name": "calculator_challenge",
+  "version": "1.0.0",
+  "description": "Creating a very basic calculator web app",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
